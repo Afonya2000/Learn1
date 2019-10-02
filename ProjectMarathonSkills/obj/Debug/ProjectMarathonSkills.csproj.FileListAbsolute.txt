@@ -1,0 +1,11 @@
+c:\users\afanasiy\documents\visual studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\bin\Debug\ProjectMarathonSkills.exe.config
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\bin\Debug\ProjectMarathonSkills.exe
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\bin\Debug\ProjectMarathonSkills.pdb
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.Form1.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.Form2.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.Form3.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.Properties.Resources.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.csproj.GenerateResource.Cache
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.exe
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\ProjectMarathonSkills\ProjectMarathonSkills\obj\Debug\ProjectMarathonSkills.pdb
